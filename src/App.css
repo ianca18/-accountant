@@ -1,0 +1,30 @@
+.counter {
+  text-align: center;
+  padding: 10px;
+}
+div.counter {
+  border: solid #5b6dcd 2px;
+  box-sizing: border-box;
+  background: rgb(247, 247, 247);
+  width: 50%;
+  margin-top: 30px;
+  margin-left: 400px;
+}
+
+h1 {
+  text-align: center;
+}
+#counter {
+  text-align: center;
+  font-size: 50px;
+  color: #70d9ff;
+}
+.button-counter {
+  padding: 10px;
+}
+.btn1,
+.btn2,
+.btn3 {
+  margin: 8px;
+  border: 1px 3px solid #090a0a;
+}
